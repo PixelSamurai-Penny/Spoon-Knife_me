@@ -1,0 +1,23 @@
+.odd{
+   background-color: rgb(255, 97, 113, 0.7);
+   font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+ 
+}
+
+.three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: hsl(112, 100%, 50%, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/*Since number 3 and number 4 share the same font size, 
+they can share the same class to avoid repetition*/

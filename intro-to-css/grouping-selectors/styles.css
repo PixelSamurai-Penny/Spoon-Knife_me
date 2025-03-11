@@ -1,0 +1,13 @@
+.cup{
+    color: white;
+    background-color: rgb(10, 10, 10);
+}
+
+.glass {
+    background-color: rgb(250, 234, 9);
+}
+
+.cup, .glass {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
